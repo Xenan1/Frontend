@@ -1,0 +1,11 @@
+#column-blog {
+    margin-left: 10%;
+    margin-right: 10%;
+    column-width: 200px;
+    column-count: 2;
+    column-gap: 15px;
+}
+h1 {
+    margin-left: 10%;
+    margin-right: 10%;
+}
